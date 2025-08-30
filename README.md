@@ -85,14 +85,28 @@ Run:
 Copy code
 ./Lair
 ```
-
+---
 ## Learning Objectives
 - Understand the tradeoffs between MPI and shared memory programming
 - Gain practical experience with thread creation, synchronization, and performance measurement
 - Explore mutexes and barriers for preventing race conditions and ensuring fairness
 - Apply high-performance computing concepts to real-world algorithms (matrix multiplication) and simulations (multi-threaded game AI)
 
-## Notes
-- This project was completed individually as part of CMSC 395 coursework
+---
+### Academic Use Disclaimer
+This repository is an archived academic project completed as part of coursework at [Institution Name].  
+It is provided **for portfolio and reference purposes only**.  
+
+If you are a current student, do not copy or submit this work as your own.  
+Course assignments may have changed since this project was completed, and instructors actively use plagiarism detection tools.  
+
+I encourage you to use this repository only as a learning reference.
+---
+
+
+
+
+
+
 - The assignment details can be found in Lab3-PThreads.pdf
 - Performance graphs were created in LibreOffice

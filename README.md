@@ -94,7 +94,7 @@ Copy code
 
 ---
 ### Academic Use Disclaimer
-This repository is an archived academic project completed as part of coursework at [Institution Name].  
+This repository is an archived academic project completed as part of coursework at [Longwood University](https://www.longwood.edu/studentconduct/honor-code/).  
 It is provided **for portfolio and reference purposes only**.  
 
 If you are a current student, do not copy or submit this work as your own.  
@@ -102,11 +102,3 @@ Course assignments may have changed since this project was completed, and instru
 
 I encourage you to use this repository only as a learning reference.
 ---
-
-
-
-
-
-
-- The assignment details can be found in Lab3-PThreads.pdf
-- Performance graphs were created in LibreOffice

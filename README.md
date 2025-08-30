@@ -25,13 +25,14 @@ The project explored three main tasks:
 ---
 
 ## Repository Contents
-- `running_total.c`, `ezsocket.c`, `ezsocket.h` — Code for the multi-threaded summation server.  
-- `matrix_mult.c` — Parallel implementation of matrix multiplication.  
-- `generate_matrix.py` — Utility script for creating random test matrices.  
-- `test1024.txt`, `output.txt` — Input and reference output files for verification.  
-- `lair.c`, `player.h`, `player.c`, `offer.h`, `offer.c` — Game code requiring synchronization structures.  
-- `Graphs.ods` — Performance results comparing thread counts.  
-- `Lab3-PThreads.pdf` — Assignment specification.  
+- `src/running_total.c`, `src/ezsocket.c`, `src/ezsocket.h` — Code for the multi-threaded summation server  
+- `src/matrix_mult.c` — Parallel implementation of matrix multiplication  
+- `data/generate_input.py` — Utility script for creating random test matrices  
+- `data/test1024.txt` — Input file for verification of matrix multiplication  
+- `results/output.txt`, `results/test.out` — Reference and generated outputs  
+- `src/lair.c`, `src/player.h`, `src/player.c`, `src/offer.h`, `src/offer.c` — Game code requiring synchronization structures  
+- `report/Lab3-PThreads.pdf` — Assignment specification  
+- `results/Mult`, `results/Total` — Compiled executables (not version-controlled in typical setups)  
 
 ---
 
